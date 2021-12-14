@@ -55,7 +55,7 @@ function showJobs(jobs){
 
    jobsHTML += `<div class="job-card">
     <div class="top">
-      <img class="job-card-img" src="${job.logo}" alt="">
+      <img class="job-card-img" src="/untitled.25.jpg" alt="">
       <i class="fas fa-ellipsis-h"></i>
     </div>
     <div class="title">
