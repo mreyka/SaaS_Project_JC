@@ -78,7 +78,7 @@ function showJobs(jobs){
 
 
 
-  let objsum = jobs.reduce((a,b) => a+1,0)
+  let objsum = jobs.reduce((a) => a+1,0)
 
   jobsContainer.innerHTML = jobsHTML;
   
